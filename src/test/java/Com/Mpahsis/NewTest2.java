@@ -11,6 +11,7 @@ public class NewTest2 {
   public void Google() {
 	  System.out.println("Hello google");
 	  System.out.println("namana");
+    System.out.println("hello git");
 	  
   }
 }
