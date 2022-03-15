@@ -16,4 +16,5 @@ public void Mobile() {
 @Test
 public void Andriod() {
 	System.out.println(10+20);
+  SYstem.out.println("aman purhoit");
 }}
